@@ -1,3 +1,4 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 church.zip filter=lfs diff=lfs merge=lfs -text
 Data.zip filter=lfs diff=lfs merge=lfs -text
+Mosque.zip filter=lfs diff=lfs merge=lfs -text
